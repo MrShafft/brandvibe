@@ -18,7 +18,7 @@ interface Product {
 
 const merchandiseData: Product[] = [
   { 
-    url: "https://ais-dev-s6xshee3rkarsvxm4ey4ul-58528994574.europe-west1.run.app/image_1.png", 
+    url: "https://picsum.photos/seed/brand1/800/800", 
     title: "Premium Black Collection", 
     category: "Apparel",
     desc: "Sleek minimalist apparel and accessories for high-end branding.",
@@ -29,7 +29,7 @@ const merchandiseData: Product[] = [
     minOrder: "20 Units"
   },
   { 
-    url: "https://ais-dev-s6xshee3rkarsvxm4ey4ul-58528994574.europe-west1.run.app/image_2.png", 
+    url: "https://picsum.photos/seed/brand2/800/800", 
     title: "Modern Pastel Series", 
     category: "Apparel",
     desc: "Soft tones and contemporary designs for lifestyle brands.",
@@ -40,7 +40,7 @@ const merchandiseData: Product[] = [
     minOrder: "25 Units"
   },
   { 
-    url: "https://ais-dev-s6xshee3rkarsvxm4ey4ul-58528994574.europe-west1.run.app/image_3.png", 
+    url: "https://picsum.photos/seed/brand3/800/800", 
     title: "Morison Executive Set", 
     category: "Corporate",
     desc: "Professional notebooks and mugs for corporate environments.",
@@ -51,7 +51,7 @@ const merchandiseData: Product[] = [
     minOrder: "10 Sets"
   },
   { 
-    url: "https://ais-dev-s6xshee3rkarsvxm4ey4ul-58528994574.europe-west1.run.app/image_4.png", 
+    url: "https://picsum.photos/seed/brand4/800/800", 
     title: "Facilitoy Promo Pack", 
     category: "Events",
     desc: "Vibrant blue event essentials including bags and stationery.",
@@ -62,7 +62,7 @@ const merchandiseData: Product[] = [
     minOrder: "50 Packs"
   },
   { 
-    url: "https://ais-dev-s6xshee3rkarsvxm4ey4ul-58528994574.europe-west1.run.app/image_5.png", 
+    url: "https://picsum.photos/seed/brand5/800/800", 
     title: "Yuewen Tech Identity", 
     category: "Corporate",
     desc: "Comprehensive tech-focused branding kit for digital companies.",
@@ -73,7 +73,7 @@ const merchandiseData: Product[] = [
     minOrder: "15 Kits"
   },
   { 
-    url: "https://ais-dev-s6xshee3rkarsvxm4ey4ul-58528994574.europe-west1.run.app/image_6.png", 
+    url: "https://picsum.photos/seed/brand6/800/800", 
     title: "Blue Horizon Event Kit", 
     category: "Events",
     desc: "Complete event branding from balloons to apparel.",
@@ -84,7 +84,7 @@ const merchandiseData: Product[] = [
     minOrder: "100 Units"
   },
   { 
-    url: "https://ais-dev-s6xshee3rkarsvxm4ey4ul-58528994574.europe-west1.run.app/image_7.png", 
+    url: "https://picsum.photos/seed/brand7/800/800", 
     title: "Savanna Outdoor Promo", 
     category: "Events",
     desc: "Large scale outdoor branding including umbrellas and banners.",
@@ -95,7 +95,7 @@ const merchandiseData: Product[] = [
     minOrder: "1 Set"
   },
   { 
-    url: "https://ais-dev-s6xshee3rkarsvxm4ey4ul-58528994574.europe-west1.run.app/image_8.png", 
+    url: "https://picsum.photos/seed/brand8/800/800", 
     title: "Gallagher Signature Black", 
     category: "Corporate",
     desc: "Elite matte black corporate gifts and office essentials.",
